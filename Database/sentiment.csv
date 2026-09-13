@@ -1,0 +1,21 @@
+text,sentiment
+I love this product,positive
+This product is amazing,positive
+I really enjoyed this movie,positive
+The service was excellent,positive
+This is a wonderful experience,positive
+I am very happy with the result,positive
+The product is very good,positive
+I hate this product,negative
+This is terrible,negative
+I really disliked this movie,negative
+The service was very bad,negative
+This is a horrible experience,negative
+I am disappointed with the result,negative
+The product is useless,negative
+The movie was okay,neutral
+The product is average,neutral
+It is neither good nor bad,neutral
+The service was normal,neutral
+I have mixed feelings about it,neutral
+The experience was okay,neutral
